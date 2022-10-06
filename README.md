@@ -21,3 +21,6 @@ In this notebook, I am glad to show you how to understand data and apply it to t
 8. Model Tuning
 
 9. Results
+
+DATA - https://www.kaggle.com/datasets/syuzai/perth-house-prices
+
