@@ -1,6 +1,6 @@
 # Perth-House-Price-Prediction-Project
 
-In this notebook, I am glad to show you how to understand data and apply it to the Machine Learning model. Also, I'll show how to visualize Latitude and Longitude on a map, how to deal with categorical data and deal with distributions in numerical data. Then, I'll demonstrate how to work and test 7 ML models at a time and choose the best one. I hope you enjoy it! Finally we can see the results and their accuracy is 84%.
+In this project, I am glad to show you how to understand data and apply it to the Machine Learning model. Also, I'll show how to visualize Latitude and Longitude on a map, how to deal with categorical data and deal with distributions in numerical data. Then, I'll demonstrate how to work and test 7 ML models at a time and choose the best one. I hope you enjoy it! Finally we can see the results and their accuracy is 84%.
 
 # Overview
 
